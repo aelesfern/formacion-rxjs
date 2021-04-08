@@ -1,0 +1,20 @@
+{
+  "name": "rxjs-formacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/1.js",
+  "scripts": {
+    "start": "tsc && node dist/$FILE",
+    "ts-node": "ts-node"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.3",
+    "typescript": "^3.6.4"
+  },
+  "devDependencies": {
+    "ts-node": "^8.4.1",
+    "tslint": "^5.20.0"
+  }
+}

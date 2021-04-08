@@ -1,0 +1,4 @@
+/**
+ * OPERADORES
+ */
+export {};
